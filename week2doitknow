@@ -1,0 +1,15 @@
+<html>
+<head>
+<script>
+ var avg = party_avg(9,48,80);
+ function party_avg(na,nb,nc) {
+   return (na+nb+nc)/3
+ }
+alert("family avg name is"+ avg)
+alert(avg)
+</script>
+</head>
+<body>
+
+</body>
+</html>
