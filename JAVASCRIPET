@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+
+body {
+  background-image: url(http://static.findix.com/data/clpix/picture_L/wunderschoene-shar-pei-welpen-637641.jpg);
+
+}
+
+h1{
+  color: black;
+}
+
+
+</style>
+</head>
+<body>
+<h1> WELCOME TO AWESOMENESS </h1>
+</body>
+</html>
