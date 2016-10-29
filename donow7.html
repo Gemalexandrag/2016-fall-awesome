@@ -1,0 +1,48 @@
+<html>
+<head>
+<script>
+  var Choie;
+function randomInt(){
+  return Math.floor(Math.random() * (1 - 0));
+}
+
+
+function rockPaperScissors(choice){
+  if (choice === 0) {
+    return "rock";
+  }
+  else if (choice === 1){
+    return "paper";
+  }
+
+  else if (choice === 2){
+    return "scissors";
+  }
+}
+
+  function calculateRPS(){
+    var r1 = rockPaperScissors(Choie);
+    var randumm = randomInt();
+    var r2 = rockPaperScissors(randumm);
+
+    if(r1 == r2){
+      alert("u wun mate");
+    }
+
+    else {
+      alert ("u los");
+    }
+  }
+  choice = prompt("wut is urr coiec boi");
+
+  randomInt();
+  calculateRPS();
+
+
+
+</script>
+</head>
+<body>
+
+</body>
+</html>
