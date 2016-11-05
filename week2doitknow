@@ -1,11 +1,17 @@
 <html>
 <head>
 <script>
+// asighning a variable
  var avg = party_avg(9,48,80);
+ //making a function
  function party_avg(na,nb,nc) {
+   // add na+nb+nc then divide by 3
    return (na+nb+nc)/3
+   // ending a function
  }
+ //alert"family avg name is" avg
 alert("family avg name is"+ avg)
+//alerts (na+nb+nc)/3
 alert(avg)
 </script>
 </head>
