@@ -12,7 +12,7 @@
  //alert"family avg name is" avg
 alert("family avg name is"+ avg)
 //alerts (na+nb+nc)/3
-alert(avg)
+
 </script>
 </head>
 <body>
